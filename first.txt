@@ -8,5 +8,6 @@ pink
 yellow 
 brown 
 blue
+black 
 green
 im not sure. thanks!
